@@ -1,0 +1,9 @@
+desc 'Publishing the website via rsync'
+task :deploy do
+  puts 'Publishing your website, silence is golden...'
+  user = 'rogerhoward'
+  server = 'roger2.com'
+  path = '/home/rogerhoward/www/roger2.com'
+  sh "rsync -auvO --delete --delete-after _site/ #{user}@#{server}:#{path}"
+  puts 'Your website is now published! Please visit at http://www.roger2.com'
+end

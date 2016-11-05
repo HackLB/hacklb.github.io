@@ -1,0 +1,46 @@
+# Site settings
+title: Roger2
+email: rogerhoward@gmail.com
+description: "I like to think the best of me is yet to come."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.roger2.com" # the base hostname & protocol for your site
+
+permalink: pretty
+
+
+# Includes an icon in the footer for each username you enter
+social:
+  email: "rogerhoward@gmail.com"
+  facebook: "roger.howard"
+  flickr: "rogerhoward"
+  github: "rogerhoward"
+  google: "rogerhoward"
+  instagram: "rogerxhoward"
+  linkedin: "rogerhoward"
+  rss: true # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter: "rogerhoward"
+  bio:  "http://rogerhoward.name"
+
+# Customize menu names & links for the site
+navigation: # Site Navigation Menu elements: names and links
+  main: # Main Menu  ( "LABEL": "URL" )
+    "panos": "#vision"
+    "photos": "#initiatives"
+    "projects": "#learn_more"
+    "bio": "#get_involved"
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: "UA-58347520-1"
+
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - .gitignore
+  - .editorconfig
+  - RAKEFILE
+  - README.md
+  - snips.md
