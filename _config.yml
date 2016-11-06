@@ -8,7 +8,7 @@
 
 # Site settings
 title: HackLB
-email: hacklb@gmail.com
+email: rogerhoward+hacklb@gmail.com
 description: "Or, how I learned to stop waiting for others to open our data."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.hacklb.com" # the base hostname & protocol for your site
@@ -17,9 +17,8 @@ permalink: pretty
 
 
 # Social media profiles - feel free to add more here
-twitter_username: SBootstrap
-github_username:  BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username: hacklongbeach
+github_username:  hacklb
 #instagram_username: beyonce
 #stackoverflow_url: https://
 #googleplus_username: BobMarley
@@ -28,10 +27,10 @@ facebook_username: StartBootstrap
 
 
 # Address information
-address_street: 3034 Melrose Place
-address_city: Beverly Hills
+address_street:
+address_city: Long Beach
 address_state: CA
-address_zip: 90201
+address_zip:
 
 # Build settings
 markdown: kramdown
