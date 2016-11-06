@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Crime Reports"
+date:   2016-10-05 05:25:53 -0500
+img: img/portfolio/crime.png
+modalID: modalCrime
+category: Datasets
+---
+The "LBPD" mobile app available for both iOS and Android is developed by [MobilePD](http://gomobilepd.com/). Previous projects by several local developers sought to access the same data GoMobilePD uses - initial analysis showed that the data used by this app could be accessed as a XML-based API at the following uri: <http://api.ezaxess.com/v2/pd/longbeach/crimes/all>
+
+This data feed is frequently unavailable, often for weeks at a time, and only represents recent crime activity, providing no access to historical data. [This project][crime-statistics-archive] seeks to serve as a both a cache of the most recent records, as well as a permanent archive of historical data. The [HackLB DLF](/#dlf) would love to find another source for this data - ideally, directly from the city - as crime data is of deep interest to many city stakeholders.
+
+<a href="https://github.com/HackLB/crime-statistics"><span class="fa fa-github"></span> Check it out on Github</a>
+
+[crime-statistics-archive]: https://github.com/HackLB/crime-statistics

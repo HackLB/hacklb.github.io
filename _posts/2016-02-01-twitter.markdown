@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Twitter Archive"
+date:   2016-10-31 20:45:22 -0500
+img: img/portfolio/twitter.png
+modalID: modalTwitter
+category: Datasets
+github: https://github.com/HackLB/tweet_archive
+---
+This project [archives Tweets][twitter-archive] from significant players in civic Long Beach for historical interest. Every Tweet is public, and from a public figure or civic organization in Long Beach.
+
+<a href="https://github.com/HackLB/tweet_archive"><span class="fa fa-github"></span> Check it out on Github</a>
+
+[twitter-archive]: https://github.com/HackLB/tweet_archive
