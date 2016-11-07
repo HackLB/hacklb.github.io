@@ -19,11 +19,6 @@ permalink: pretty
 # Social media profiles - feel free to add more here
 twitter_username: hacklongbeach
 github_username:  hacklb
-#instagram_username: beyonce
-#stackoverflow_url: https://
-#googleplus_username: BobMarley
-#skype_username: echo123
-#linkedin_url: https://
 facebook_url: https://www.facebook.com/hacklb/
 
 
@@ -36,6 +31,8 @@ address_zip:
 # Build settings
 markdown: kramdown
 
+gems:
+  - jekyll-sitemap
 
 # Exclude these files from your production _site
 exclude:
