@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "GIS Data Catalog"
+date:   2016-10-01 15:08:10 -0500
+img: img/portfolio/gis.png
+modalID: modalGIS
+category: Datasets
+---
+This repository is intended to mirror the [OpenLB GIS datasets](http://www.longbeach.gov/ti/gis-maps-and-data/data-catalog/) using GeoJSON for convenience and readiness to integrate with many modern GIS technologies such as OpenStreetMaps, Leafly, Mapbox, and Github itself*
+
+<a href="https://github.com/HackLB/gis-data-catalog"><span class="fa fa-github"></span> Check it out on Github</a>
+
+[gis-archive]: https://github.com/HackLB/gis-data-catalog

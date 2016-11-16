@@ -6,7 +6,7 @@ img: img/portfolio/calendar.png
 modalID: modalCalendar
 category: Datasets
 ---
-[This project][civic-calendar] mirrors and archives records from the City of Long Beach [Legistar calendar](http://longbeach.legistar.com/Calendar.aspx). We use JSON as a convenient format for consuming and analyzing city meeting records, and git in order to maintain a historical record including changes over time. This repo groups records by commission or meeting name, and then by date, so you can easily see the history of meetings for each commission or group. Any agenda and minutes documents are also downloaded and saved.
+[This project][civic-calendar] mirrors and archives records from the City of Long Beach [Legistar calendar](http://longbeach.legistar.com/Calendar.aspx). We use JSON as a convenient format for consuming and analyzing city meeting records, their agenda items, and related documents, and git in order to maintain a historical record including changes over time. This repo groups records by commission or meeting name, and then by date, so you can easily see the history of meetings for each commission or group. Any agenda and minutes documents are also downloaded and saved.
 
 <a href="https://github.com/HackLB/legistar"><span class="fa fa-github"></span> Check it out on Github</a>
 
