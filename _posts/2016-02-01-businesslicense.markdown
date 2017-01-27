@@ -6,7 +6,7 @@ img: img/portfolio/businesslicense.png
 modalID: modalBusinessLicenses
 category: Datasets
 ---
-[This project][business-licenses] contains over 80,000 records of current and historical business licenses in the city of Long Beach, CA.
+[This project][business-licenses] contains over 90,000 records of current and historical business licenses in the city of Long Beach, CA.
 
 <a href="https://github.com/HackLB/business_licenses"><span class="fa fa-github"></span> Check it out on Github</a>
 

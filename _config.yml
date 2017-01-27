@@ -9,7 +9,7 @@
 # Site settings
 title: HackLB
 email: rogerhoward+hacklb@gmail.com
-description: "Or, how I learned to stop waiting for others to open our data."
+description: "Because data is power."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.hacklb.com" # the base hostname & protocol for your site
 
